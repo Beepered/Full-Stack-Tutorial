@@ -7,20 +7,24 @@ Stuff for me to remember:
 
 ## Introduction
 
-Part 2 of trying to learn stuff each week. First week was [learning SQL](https://github.com/Beepered/SQL-Practice).
+Full stack is a LOT more work than I thought. I've actually done it before in one of my [college classes](https://github.com/ucsc2025-cse183/Beepered-code), but we weren't told that we were doing full-stack, so I thought it was all frontend.
 
-Full stack is a LOT more work than I thought. I've actually done it before in one of my [college classes](https://github.com/ucsc2025-cse183/Beepered-code), but we weren't told that we were doing full-stack, so I thought we were only doing frontend. It used py4web, instead of Flask, and Vue.js, instead of React. That is where I learned to use Vue.js and I still use it in my portfolio website.
-
-I followed [this video](https://www.youtube.com/watch?v=PppslXOR7TA&t=3364s) by Tech with Tim. Originally, I followed it then saw that the tutorial did not show how to deploy it, so I deleted it and started a few different tutorials which wer bad, so I restarted with this one again.
+I followed [this video](https://www.youtube.com/watch?v=PppslXOR7TA&t=3364s) by Tech with Tim. Originally, I followed it, then saw it did not show how to deploy the site, so I deleted my work and started a few different tutorials which were bad, then restarted with this one again.
 
 ## What is this project?
+
+A small full stack website that allows you to put in a first name, last name, and email. You can update the information or delete it.
+
+For the non-programmers: <br>
+Frontend lets you see the information. Backend lets you add/delete information. You click button (frontend) which sends information to backend to do something.
+
+![Image of site](assets/img.png)
+![Image of site](assets/img2.png)
 
 ## Tools Used
 
 1. **Flask/Python**: backend
 2. **React**: frontend, I prefer Vue.js
-
-![Image of site](assets/img.png)
 
 ## What I learned
 
